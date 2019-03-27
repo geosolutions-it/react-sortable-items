@@ -1,6 +1,6 @@
 {
   "name": "react-sortable-items",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Sort stuff with React.js",
   "main": "Sortable.js",
   "scripts": {
@@ -36,7 +36,9 @@
   },
   "dependencies": {
     "classnames": "^1.1.4",
-    "react-addons-update": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-addons-update": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "prop-types": "15.6.0",
+    "create-react-class": "15.6.2"
   }
 }
